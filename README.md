@@ -25,5 +25,5 @@ The repository is organized in the following manner:
 - **/assets** - Pieces Images
 - **/src** - Python functions
 - .gitignore
-- game.py
+- chess.py
 - README.md
